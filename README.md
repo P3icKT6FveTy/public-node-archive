@@ -1,6 +1,6 @@
-# 云享免费节点分享 | 专题版
+# Public Node Archive
 
-> 这份镜像更强调客户端专题页，适合按设备类型继续阅读。
+> An archive-style repository that emphasizes dates, history, and the current article instead of raw subscription text.
 
 ## 今日获取入口
 
@@ -22,20 +22,20 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。专题页、正文和归档合并后，内容链路更完整。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。归档页最适合放在博客站内，GitHub 只保留入口和日期说明。
 
 ## 快速入口
 
 - 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-06
+- 每日免费节点归档：https://free.yunxiang.lol/nodes
 - 客户端专题页：https://free.yunxiang.lol/topics
 - 常见问题文档：https://free.yunxiang.lol/docs
-- 每日免费节点归档：https://free.yunxiang.lol/nodes
 - RSS 更新源：https://free.yunxiang.lol/rss.xml
 - 稳定付费套餐：https://user.yunxiangpnv.lol/
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看专题页，再点当天文章复制链接。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。想比对今天和前几天的更新，先看当天文章，再去归档页。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 
